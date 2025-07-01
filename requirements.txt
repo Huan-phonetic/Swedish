@@ -1,1 +1,7 @@
-datasets 
+gradio
+# datasets is already present
+datasets
+numpy
+python-dotenv
+openai
+soundfile 
