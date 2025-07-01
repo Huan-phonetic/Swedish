@@ -1,0 +1,30 @@
+{
+    "Uppsala läns valkrets": [
+        [
+            59.8586,
+            17.6389
+        ],
+        "Uppsala län"
+    ],
+    "Skaraborgs läns valkrets": [
+        [
+            58.4,
+            13.5
+        ],
+        "Västra Götaland län, Skaraborgs kommun"
+    ],
+    "Västra Götalands läns södra valkrets, Skaraborgs läns valkrets, Älvsborgs läns valkrets": [
+        [
+            58.4,
+            13.5
+        ],
+        "Västra Götaland County, Skaraborg Municipality"
+    ],
+    "Göteborgs kommuns valkrets, Fyrstadskretsen": [
+        [
+            57.7089,
+            11.9746
+        ],
+        "斯德哥尔摩县（Västra Götaland County），哥德堡市（Göteborg）"
+    ]
+}
